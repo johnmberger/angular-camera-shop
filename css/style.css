@@ -16,7 +16,7 @@ i.right-align {
   position: absolute;
   right: 20px;
 }
-i:hover {
+i.right-align:hover {
   color: brown;
 }
 a {
